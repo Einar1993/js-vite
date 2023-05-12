@@ -5,6 +5,7 @@ Pasos para ejecutar proyectos:
 2. Ejecutar ```npm install``` para recontruir los modulos de node
 3. Correr el devServer ``` npm run dev```
 4. Abrir el proyecto en : ```https://localhost:3000```
+5. Abrir el navegador de Preferencia ```Firefox```
 
 ##Produccion
 
